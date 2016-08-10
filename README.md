@@ -1,5 +1,5 @@
 # hello-world
-New user coming through, ignore this.
+New user coming through, don't mind me.
 
 I like falafels, cheese, and ramen.
 Going to use this to hopefully be motivated and actually remember what I've learned in Java.
